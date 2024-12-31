@@ -3,7 +3,7 @@
 React Native module for loading and interacting with Apple ahap files
 
 - Implements the Apple API for building custom haptics. Learn more: [WWDC 2021](https://developer.apple.com/videos/play/wwdc2021/10278).
-- You can create ahap files online: [Here](https://ahap.fancypixel.it/).
+- You can create ahap files online: [Here](https://ahap.fancypixel.it/). Learn more about apple happtics: [WWDC 2019](https://developer.apple.com/videos/play/wwdc2019/810/)
 
 > This library is not an official part of the Expo SDK!
 
